@@ -1,7 +1,6 @@
-- Olá meu nome é Sirlon Brehm Junior, entrei no mundo da programação cedo, atualmente estou cursando JAVA pelo programa Entra21 da instituição proWay.
-
-- Pretendo em 2 anos adquirir muito mais experiência através de cursos, projetos desenvolvidos e buscando alguma oportunidade no mercado de trabalho.
-<!---
-sirlonjr/sirlonjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome!;My+name+is+Sirlon+Brehm+Junior;I'm+a+JAVA+student." alt="Typing SVG" /></a>
+</div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GHRambo&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=01C231&text_color=f6f5f4&bg_color=0d1117" alt="Sirlon Brehm Junior github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHRambo&layout=compact&hide_border=true&title_color=ffffff&text_color=f6f5f4&bg_color=0d1117" />
